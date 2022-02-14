@@ -6,9 +6,9 @@ import React from "react"
 const About = (props) => {
 
  return (
-  <div>
-    <ul>
-      page about
+  <div className="about__content">
+      <ul className="about__list">
+        page about
     </ul>
     </div>
 )
